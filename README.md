@@ -1,2 +1,2 @@
 # house-renting
-react,ant-design,a house-renting systerm
+react,antd-mobile,a house-renting systerm
